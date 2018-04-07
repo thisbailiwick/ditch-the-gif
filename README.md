@@ -1,7 +1,7 @@
 # Ditch the GIF
 
 
-**Ditch the GIF** is a plugin to implement looping videos in a GIF like fasion but without the expensive bandwidth and cpu usage.
+**Ditch the GIF** is a plugin to implement looping videos in a GIF like fashion but without the expensive bandwidth and cpu usage.
 ## Use
 
 

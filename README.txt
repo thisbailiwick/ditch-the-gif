@@ -8,7 +8,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Ditch the GIF is a plugin to implement looping videos in a GIF like fasion but without the expensive bandwidth and cpu usage.
+Ditch the GIF is a plugin to implement looping videos in a GIF like fashion but without the expensive bandwidth and cpu usage.
 
 == Description ==
 * DtF will take your video file and output it as a `<video>` tag with these attributes `loop playsinline muted autoplay`. These attributes allow the videos to be autoplayed on desktop and mobile devices which support autoplay when the video is muted (even iOS and Android).
